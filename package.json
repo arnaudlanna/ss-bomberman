@@ -1,0 +1,22 @@
+{
+  "name": "ss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnaudlanna/ss-bomberman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnaudlanna/ss-bomberman/issues"
+  },
+  "homepage": "https://github.com/arnaudlanna/ss-bomberman#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
