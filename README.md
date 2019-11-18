@@ -8,13 +8,13 @@ Portanto, basta fazer o build utilizando o docker:
 docker build -t ss-bomberman .
 ```
 
-E executar o container:
+Executar o container:
 
 ```
 docker run -it ss-bomberman
 ```
 
-Feito isso, para rodar o projeto, basta utilizar o node:
+E executar o projeto utilizando o node:
 
 ```
 node index.js
